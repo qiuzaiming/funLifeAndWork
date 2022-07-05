@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">FunAndroidCompose</string>
+    <string name="app_name">FunLifeAndWork</string>
+    <string name="logo">Logo</string>
+    <string name="fun_life_and_work">Fun Life And Work</string>
 </resources>
